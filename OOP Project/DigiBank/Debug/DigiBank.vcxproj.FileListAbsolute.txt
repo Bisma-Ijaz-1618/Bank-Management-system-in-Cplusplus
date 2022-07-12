@@ -1,0 +1,3 @@
+G:\bank\Front\DigiBank\Debug\DigiBank.exe
+G:\bank\Amad, Ubaid, BIsma_OOP Project\DigiBank\Debug\DigiBank.exe
+G:\bank\OOP Project\DigiBank\Debug\DigiBank.exe

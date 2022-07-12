@@ -1,0 +1,4 @@
+﻿  DigiBank.cpp
+G:\bank\OOP Project\DigiBank\DigiBank.cpp(1052,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\bank\OOP Project\DigiBank\DigiBank.cpp(1101,31): warning C4305: '=': truncation from 'double' to 'float'
+  DigiBank.vcxproj -> G:\bank\OOP Project\DigiBank\Debug\DigiBank.exe

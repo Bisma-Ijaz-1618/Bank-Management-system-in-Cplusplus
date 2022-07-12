@@ -1,0 +1,8 @@
+G:\bank\Front\Project_OOP\Debug\Project_OOP.vcxproj.AssemblyReference.cache
+G:\bank\Front\Project_OOP\Debug\ProjectOOP.MyForm.resources
+G:\bank\Front\Project_OOP\Debug\Project_OOP.vcxproj.GenerateResource.cache
+G:\bank\Front\Project_OOP\Debug\Project_OOP.exe
+G:\bank\OOP Project\Project_OOP\Debug\Project_OOP.vcxproj.AssemblyReference.cache
+G:\bank\OOP Project\Project_OOP\Debug\ProjectOOP.MyForm.resources
+G:\bank\OOP Project\Project_OOP\Debug\Project_OOP.vcxproj.GenerateResource.cache
+G:\bank\OOP Project\Project_OOP\Debug\Project_OOP.exe
